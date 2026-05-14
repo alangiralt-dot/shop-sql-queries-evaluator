@@ -115,6 +115,7 @@ SELECT nombre, precio AS precio_eur, precio * 1 AS precio_usd FROM producto;
 -- 39. Llista el nom del producte més barat del fabricant Hewlett-Packard.
 
 
+
 -- 40. Retorna tots els productes de la base de dades que tenen un preu major o igual al producte més car del fabricant Lenovo.
 
 
